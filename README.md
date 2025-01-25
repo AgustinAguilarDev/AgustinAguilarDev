@@ -3,13 +3,16 @@
 
 Hello, GitHub! 👋
 
-I'm Agustin, a student at Brigham Young University-Idaho interested in software development. Welcome to my GitHub profile!
+I'm Agustin, a Software Developer student at Brigham Young University-Idaho. Welcome to my GitHub profile!
 
 ## About Me
 
-I've been taking different classes at BYU for the last 4 to 5 years. Most of them related to software development, but also many soft skills and general topics. I'm currently taking a class that required me to learn several technologies, creating a new project with a different technology every two weeks. It's a super exciting class! On the next term I'll take another class that will require me to create a bigger project.
-Most of my repositories here were created as part of those classes as I learned new skills and technologies.
-My goal is to graduate and obtain my BS degree in Software Development by the end of this year (2025).
+I started my first Software development position at Primero System on January 2024, where I'm learning a lot, mainly about React and .Net. For the last 4 to 5 years, I've been taking different classes at BYU. Most of them related to software development, but also many soft skills and general topics. I'm currently taking a class that required me to learn several technologies, creating a new project with a different technology every two weeks. It's a super exciting class! On the next term I'll take another class that will require me to create a bigger project. My goal is to graduate and obtain my BS degree in Software Development by the end of this year (2025).
+
+Most of my repositories here were created as part of those classes as I learned new skills and technologies. Here are a few that I liked working on:
+_ Recipes App, built with Angular: https://github.com/AgustinAguilarDev/recipes-app
+_ Studies Organizer App, also built with Angular: https://github.com/AgustinAguilarDev/studies-organizer
+_ CMS or Contacts App, built with Angular: https://github.com/AgustinAguilarDev/cms-
 
 ## Technologies and Tools
 
